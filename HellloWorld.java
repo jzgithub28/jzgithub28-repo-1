@@ -2,6 +2,6 @@ class Test
 {
     public static void main(String []args)
     {
-        System.out.println("My First Java Progrbam.");
+        System.out.println("My First Java Progrfbam.");
     }
 };
